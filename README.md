@@ -42,7 +42,7 @@ If you'll manage to setup git, you'll be able to add some notes to this doc by y
 
 Node package manager (or npm) is a javascript package manager (so somewhat similiar to Homebrew. e.g. if you've heard about React, you can install it using npm). In order to install npm, you'll have ot install [node](https://nodejs.org/en/download/package-manager/#macos)
 
-### Trello
+### [Trello](https://trello.com)
 
 This is not a requirement, but it's a nice addition to your workflow. I can tell you about the approach we're using when planning our tasks.
 
