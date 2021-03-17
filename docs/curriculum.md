@@ -1,8 +1,8 @@
 # Course Curriculum
 
-- what topics
-- how many lessons / how often
-- topics that need to be covered
+## Structure
+
+- 1 - 2 hour session a week
 
 ## Topics
 
