@@ -4,6 +4,8 @@
 
 [HW 01](./hw/01/README.md)
 
+## Introduction
+
 Hello there, for your first task you'll need to install some tools which we'll be using during this journey of ours. Hope it wont be too overwhelming, anyway just try to finish as much as possible and we'll go over these on our next call.
 
 Apart from that, I'd suggest you start with a Javascript course on [JS Courses](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/), so you get somewhat familiar with the language.
